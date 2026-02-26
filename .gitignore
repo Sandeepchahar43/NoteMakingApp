@@ -1,0 +1,21 @@
+# Gradle
+.gradle/
+**/.gradle/
+build/
+**/build/
+
+# Caches & Daemon
+caches/
+**/caches/
+daemon/
+**/daemon/
+wrapper/dists/
+**/wrapper/dists/
+
+# Android Studio
+.idea/
+*.iml
+local.properties
+
+# OS
+.DS_Store
